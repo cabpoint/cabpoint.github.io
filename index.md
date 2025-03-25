@@ -6,7 +6,7 @@
     <title>Your Portfolio</title>
     <style>
         body {
-            background-image: url('your-image-path.jpg'); /* Replace with your image path */
+            background-image: url('Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg'); /* Replace with your image path */
             background-size: cover; /* Ensures the image covers the entire page */
             background-position: center; /* Centers the background image */
             background-attachment: fixed; /* Makes the background fixed while scrolling */
